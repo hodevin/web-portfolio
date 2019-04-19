@@ -9,7 +9,12 @@ image: /images/uploads/news_item-02.jpg
 ---
 *Image from Hypebeast.com*
 
+Retail Price: $220
+Resell Price Prediction: $260
+
 This week we'll take a look into Adidas and their Yeezy 350 V2 line. This sneaker has been a staple and one of the most influential sneakers in the streetwear culture. Adidas has released over 7 colors in this model, each release having more and more stock production.
+
+Adidas is planning to release the black color of the Adidas Yeezy 350 V2 on June 22nd, 2019.
 
 ## The history behind Kanye West and his Yeezy's
 
