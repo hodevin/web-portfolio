@@ -1,5 +1,5 @@
 ---
-title: 'Just in: small batch of Jamaican Blue Mountain in store next week'
+title: 'Supreme’s Must-Cop Hot Wheels Car & Truck Set Is Dropping Today'
 date: 2018-08-18T09:01+02:00
 description: >-
   We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
@@ -7,23 +7,11 @@ description: >-
 image: /images/uploads/news_item-03.jpg
 ---
 
-We expect the shipment of a limited quantity of green beans next Monday. We’ll be offering the roasted beans from Tuesday, but quantities are limited, so be quick.
+Back in February, when Supreme‘s Spring/Summer 2019 look-book and preview dropped, the internet was particularly psyched about the brand’s upcoming Hot Wheels collaboration. Finally, today, we’ll get to relive our childhoods when the season’s must-have accessory drops.
 
-Blue Mountain Peak is the highest mountain in Jamaica and one of the highest peaks in the Caribbean at 7,402 ft. It is the home of Blue Mountain coffee and their famous tours. It is located on the border of the Portland and Saint Thomas parishes of Jamaica.
+## A little history on Hot Wheels
 
-## A little history
+The Hot Wheels Team Transport pack contains a Supreme-branded scale model Fleet Flyer and 1992 BMW M3 with custom license plates and the ’90s-era Hot Wheels logo on the packaging.
+The Supreme x Hot Wheels collaboration will be available online and at Supreme’s New York, Los Angeles, London, and Paris stores later today, April 18, at 11 a.m. EDT and BST (12 p.m. CEST).
 
-The Blue Mountains are considered by many to be a hiker's and camper's paradise. The traditional Blue Mountain trek is a 7-mile hike to the peak and consists of a 3,000-foot increase in elevation. Jamaicans prefer to reach the peak at sunrise, thus the 3–4 hour hike is usually undertaken in darkness. Since the sky is usually very clear in the mornings, Cuba can be seen in the distance.
-
->Some of the plants found on the Blue Mountain cannot be found anywhere else in the world and they are often of a dwarfed sort.
-
-This is mainly due to the cold climate which inhibits growth. The small coffee farming communities of Claverty Cottage and Hagley Gap are located near the peak.
-
-## What you need to know before trying
-
-Jamaican Blue Mountain Coffee or Jamaica Blue Mountain Coffee is a classification of coffee grown in the Blue Mountains of Jamaica. The best lots of Blue Mountain coffee are noted for their mild flavor and lack of bitterness. Over the past few decades, this coffee has developed a reputation that has made it one of the most expensive and sought-after coffees in the world. Over 80% of all Jamaican Blue Mountain Coffee is exported to Japan. In addition to its use for brewed coffee, the beans are the flavor base of Tia Maria coffee liqueur.
-
-Jamaican Blue Mountain Coffee is a globally protected certification mark, meaning only coffee certified by the Coffee Industry Board of Jamaica can be labeled as such. It comes from a recognized growing region in the Blue Mountain region of Jamaica, and its cultivation is monitored by the Coffee Industry Board of Jamaica.
-
-The Blue Mountains are generally located between Kingston to the south and Port Antonio to the north. Rising 7,402 ft, they are some of the highest mountains in the Caribbean. The climate of the region is cool and misty with high rainfall. The soil is rich, with excellent drainage. This combination of climate and soil is considered ideal for coffee.
-
+>Hot Wheels was first introduced in 1968 to the toy industry during NEW YORK TOY FAIR. Although Mattel, which is based in California, both Supreme and Hot Wheels began in New York.
