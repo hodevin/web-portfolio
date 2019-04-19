@@ -1,10 +1,8 @@
 ---
-title: A beginners’ guide to brewing with Chemex
+title: 'Adidas Yeezy 350 V2 "Black" is set to drop on June 22nd'
 date: 2018-08-16T12:01+02:00
 description: >-
-  Brewing with a Chemex probably seems like a complicated, time-consuming
-  ordeal, but once you get used to the process, it becomes a soothing ritual
-  that's worth the effort every time.
+  This week we'll take a look into Adidas and their Yeezy 350 V2 line. This sneaker has been a staple and one of the most influential sneakers in the streetwear culture. Adidas has released over 7 colors in this model, each release having more and more stock production.
 image: /images/uploads/news_item-02.jpg
 ---
 *Image from Hypebeast.com*

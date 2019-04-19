@@ -2,8 +2,7 @@
 title: 'Supreme’s Must-Cop Hot Wheels Car & Truck Set Is Dropping Today'
 date: 2018-08-18T09:01+02:00
 description: >-
-  We’re proud to announce that we’ll be offering a small batch of Jamaica Blue
-  Mountain coffee beans in our store next week.
+  Back in February, when Supreme‘s Spring/Summer 2019 look-book and preview dropped, the internet was particularly psyched about the brand’s upcoming Hot Wheels collaboration. Finally, today, we’ll get to relive our childhoods when the season’s must-have accessory drops.
 image: /images/uploads/news_item-03.jpg
 ---
 *Image from Supreme*
