@@ -6,7 +6,7 @@ description: >-
   Mountain coffee beans in our store next week.
 image: /images/uploads/news_item-03.jpg
 ---
-Image from Supreme
+*Image from Supreme*
 
 Back in February, when Supreme‘s Spring/Summer 2019 look-book and preview dropped, the internet was particularly psyched about the brand’s upcoming Hot Wheels collaboration. Finally, today, we’ll get to relive our childhoods when the season’s must-have accessory drops.
 
