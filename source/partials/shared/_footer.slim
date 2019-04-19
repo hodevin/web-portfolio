@@ -12,10 +12,13 @@ footer
       .row
         .newsletter
           form
+            label for="email" Sign up for our newsletter
+            input type="email" name="email" placeholder="Enter your email here"
+            button type="submit" Submit
           form action="https://formspree.io/devinhocv6@gmail.com" method="POST"
-            input name="name" type="text" /
-            input name="_replyto" type="email" /
-            input type="submit" value="Send" /
+            input name="name" type="text" placeholder="testing"
+            input name="_replyto" type="email"
+            input type="submit" value="Send"
 
         .social
           .icons
