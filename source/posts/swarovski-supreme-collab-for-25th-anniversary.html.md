@@ -7,10 +7,10 @@ image: /images/uploads/swarovskiboxlogos.jpg
 ---
 *Image from Supremecommunity.com*
 
-Retail Price (Tee): $398
+Retail Price (Tee): $398 //
 Resell Price Prediction: $1500
 
-Retail Price (Hoodie): $598
+Retail Price (Hoodie): $598 //
 Resell Price Predition: $2200
 
 The New York streetwear stalwart teamed with Swarovski to celebrate its 25th anniversary with glistening Box Logo T-shirts and hoodies. This collection included a tee shirt and a hoodie. The tee shirt released in white, black, and red. The hoodie released in black, red, navy, and heather grey. This collection features around 1000 trademark Swarovski gems for the construction of the Supreme logo.

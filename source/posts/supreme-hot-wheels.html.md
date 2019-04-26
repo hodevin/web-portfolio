@@ -7,7 +7,7 @@ image: /images/uploads/news_item-03.jpg
 ---
 *Image from Supreme*
 
-Retail Price: $30
+Retail Price: $30 //
 Resell Price Prediction: $100
 
 Back in February, when Supreme‘s Spring/Summer 2019 look-book and preview dropped, the internet was particularly psyched about the brand’s upcoming Hot Wheels collaboration. Finally, today, we’ll get to relive our childhoods when the season’s must-have accessory drops.
