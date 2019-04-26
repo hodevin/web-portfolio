@@ -1,6 +1,6 @@
 ---
 title: 'Supreme Celebrates 25th Anniversary with a Swarovski Collaboration'
-date: 2019-04-16T12:01+02:00
+date: 2019-04-24T12:01+03:00
 description: >-
   The New York streetwear stalwart teamed with Swarovski to celebrate its 25th anniversary with glistening Box Logo T-shirts and hoodies. This collection included a tee shirt and a hoodie. The tee shirt released in white, black, and red. The hoodie released in black, red, navy, and heather grey.
 image: /images/uploads/swarovskiboxlogos.jpg
