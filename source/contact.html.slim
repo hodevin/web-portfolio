@@ -1,8 +1,13 @@
-section.homepage-news.news
+section.contact
   .container
     h2
       | News
-    .news-items
-      //get the first two most recent posts
-      - blog.articles.each do | article |
-        = partial 'partials/news/news_item', locals: {article: article}
+    form action="https://formspree.io/email@domain.tld" method="POST"
+      p Name
+      input name="name" type="text" /
+      p Email
+      input name="_replyto" type="email" /
+      br/
+      br/
+      textarea cols="30" name="message" rows="10"  Enter your message here...
+      input type="submit" value="Send" /
