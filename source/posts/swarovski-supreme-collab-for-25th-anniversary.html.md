@@ -1,29 +1,18 @@
 ---
-title: 'Adidas Yeezy 350 V2 "Black" is set to drop on June 22nd'
+title: 'Supreme Celebrates 25th Anniversary with a Swarovski Collaboration'
 date: 2019-04-16T12:01+02:00
 description: >-
-  This week we'll take a look into Adidas and their Yeezy 350 V2 line. This sneaker has been a staple and one of the most influential sneakers in the streetwear culture. Adidas has released over 7 colors in this model, each release having more and more stock production.
-image: /images/uploads/news_item-02.jpg
+  The New York streetwear stalwart teamed with Swarovski to celebrate its 25th anniversary with glistening Box Logo T-shirts and hoodies. This collection included a tee shirt and a hoodie. The tee shirt released in white, black, and red. The hoodie released in black, red, navy, and heather grey.
+image: /images/uploads/swarovskiboxlogos.jpg
 ---
-*Image from Hypebeast.com*
+*Image from Supremecommunity.com*
 
-Retail Price: $220
-Resell Price Prediction: $260
+Retail Price (Tee): $398
+Resell Price Prediction: $1500
 
-This week we'll take a look into Adidas and their Yeezy 350 V2 line. This sneaker has been a staple and one of the most influential sneakers in the streetwear culture. Adidas has released over 7 colors in this model, each release having more and more stock production.
+Retail Price (Hoodie): $598
+Resell Price Predition: $2200
 
-Adidas is planning to release the black color of the Adidas Yeezy 350 V2 on June 22nd, 2019.
+The New York streetwear stalwart teamed with Swarovski to celebrate its 25th anniversary with glistening Box Logo T-shirts and hoodies. This collection included a tee shirt and a hoodie. The tee shirt released in white, black, and red. The hoodie released in black, red, navy, and heather grey. This collection features around 1000 trademark Swarovski gems for the construction of the Supreme logo.
 
-## The history behind Kanye West and his Yeezy's
-
-### Nike
-
-In April of 2009, Kanye West worked with Nike to produce the first ever shoe under Kanye's name: The Nike Air Yeezy 1. 5 years later, Kanye and Nike released the Air Yeezy 2, dubbed the "Red Octobers".
-
-However, Kanye would soon part ways with his partnership with Nike due to some outstanding circumstances.
-
-### Adidas
-
-Kanye said that Nike refused to pay royalties on the Nike Air Yeezys. Additionally, Adidas offered him full creative reign over his sneaker design as well as much more money than what Nike offered.
-
-For a design piece that became popular, Adidas Yeezy's were not always mass produced. The original Adidas Yeezy 350 V1 (Version 1) were produced in much smaller quantities. This means that the market price will go up, since there is a low supply and high demand. This is mostly influenced by the hype that drives the price up in the streetwear community. The streetwear culture revolves around building hype in order to create a market "value", which means that exclusive and popular brands will have a **resell** value. Potentially, the **resell** price may be higher than the **retail** price by a significant amount.
+This is the first time that Supreme has ever done a collaborative collection with Swarovski. Moreover, each Swarovski gem is individually hand-placed. The collection is expected to sell out within 2-5 seconds online and be extremely profitable for resellers.
